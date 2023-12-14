@@ -1,6 +1,6 @@
 # desafio_tecnico2
 
-A new Flutter project.
+
 Aplicativo desenvolvido em flutter, similar a um leitor de eBooks. Desafio proposto, com a intenção de ofereçer uma melhor experiencia para o usuário.
 
 Para testa-lo, é necessario ter uma IDE compativel com Dart & Flutter. VS Code, mas pode ser no andriod studio tambem. Pra rodar o aplicativo:
