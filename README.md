@@ -1,16 +1,10 @@
 # desafio_tecnico2
 
 A new Flutter project.
+Aplicativo desenvolvido em flutter, similar a um leitor de eBooks. Desafio proposto, com a intenção de ofereçer uma melhor experiencia para o usuário.
 
-## Getting Started
+Para testa-lo, é necessario ter uma IDE compativel com Dart & Flutter. VS Code, mas pode ser no andriod studio tambem. Pra rodar o aplicativo:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+faça o donwloado do arquivo compactado.
+abra ele no Vs code ou no andriod Studio,
+vá no terminal e digite o comando : flutter run. é possivel vizualiza-lo no navegador online tambem. Basta escolher a opção no terminal. ou se tiver já um emulador android instalado na maquina, basta inicializa-lo.
